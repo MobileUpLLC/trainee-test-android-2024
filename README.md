@@ -6,7 +6,7 @@
 
 Все необходимые ссылки:
 - [Figma](https://www.figma.com/design/jq1CJfQRYSjIGiGZmabeaV/MobileUp-Trainee-Test-Task)
-- [CoinGecko API](https://docs.coingecko.com/v3.0.1/reference/endpoint-overview)
+- [CoinGecko API (v3.0.1)](https://docs.coingecko.com/v3.0.1/reference/endpoint-overview)
 
 ## Стек для реализации
 - Kotlin
